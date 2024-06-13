@@ -1,0 +1,16 @@
+{
+    "validMessage01": {
+        "name": "tester",
+        "email": "tester@tst.io",
+        "phone": "012345678900",
+        "subject": "no subject",
+        "description": "sometext sometext sometext"
+    },
+    "invalidMessage01": {
+        "name": "tester",
+        "email": "tester@tst.io",
+        "phone": "01",
+        "subject": "no subject",
+        "description": "sometext sometext sometext"
+    }
+}

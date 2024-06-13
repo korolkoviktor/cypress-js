@@ -1,0 +1,20 @@
+{
+    "validRoom01": {
+        "roomscount": "12",
+        "type": "Family",
+        "accessible": "true",
+        "price": "150",
+        "wificheckbox": "true",
+        "tvcheckbox": "true",
+        "radiocheckbox": "true"
+    },
+    "invalidRoom01": {
+        "roomscount": "",
+        "type": "Family",
+        "accessible": "true",
+        "price": "gg",
+        "wificheckbox": "true",
+        "tvcheckbox": "true",
+        "radiocheckbox": "true"
+    }
+}
